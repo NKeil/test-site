@@ -3,4 +3,4 @@ website domain hosting test
 
 [nickkeil.me](http://nickkeil.me)
 
-![alt text](https://github.com/NKeil/test-site/blob/master/ihnmbims.jpg)
+![alt text](http://harlanellison.com/heboard/ihnm/images/hebill.jpg)
